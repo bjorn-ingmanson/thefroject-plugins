@@ -9,7 +9,7 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 /plugin install thefroject-software
 ```
 
-## Skills (82)
+## Skills (83)
 
 - **Code Reviewer** — Review code for bugs, performance, and best practices
 - **Test Writer** — Generate thorough test suites for your code
@@ -70,6 +70,7 @@ Software development toolkit: code review, TDD, debugging, security audits, refa
 - **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
 - **Privacy Compliance Auditor** — Audit applications and processes for GDPR, CCPA, and general privacy compliance
 - **Release Manager** — Coordinate releases with checklists, changelogs, rollback plans, and stakeholder communication
+- **Idea Validator** — Validate business ideas through structured questioning, market sizing, and sell-before-build frameworks
 - **Alt Text Generator** — Generate accessible image alt text at scale from crawl data and page context
 - **Crawl Analyzer** — Analyze website crawl exports to find technical SEO issues and prioritize fixes
 - **Translation QA** — Audit translation and localization quality across languages and file formats

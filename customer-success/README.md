@@ -9,7 +9,7 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 /plugin install thefroject-customer-success
 ```
 
-## Skills (65)
+## Skills (66)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -54,6 +54,7 @@ Customer success toolkit: churn prevention, health scoring, QBRs, renewal strate
 - **Maker-Checker** — One agent creates output, a separate agent validates it, looping until the checker approves
 - **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
 - **Review Miner** — Mine customer reviews for pain points, trigger moments, objections, and ad-ready language
+- **Idea Validator** — Validate business ideas through structured questioning, market sizing, and sell-before-build frameworks
 - **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
 - **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
 - **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills

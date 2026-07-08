@@ -45,14 +45,14 @@ A working AI image prompt has five parts:
 
 | Part | Example |
 |------|---------|
-| Subject | Pixel-art frog wearing a purple cape |
-| Composition | Centered, full body, mid-shot |
-| Style | Retro pixel art, 16-bit aesthetic |
+| Subject | Paper airplane soaring above a city skyline |
+| Composition | Centered, full frame, slight upward angle |
+| Style | Flat vector illustration, minimal color palette |
 | Lighting | Soft ambient glow, warm tones |
-| Technical | 1024x1024, transparent background, sharp pixels |
+| Technical | 1024x1024, transparent background, clean edges |
 
-Bad prompt: "a cool frog logo"
-Good prompt: "Pixel-art frog with a purple cape, centered, 16-bit retro style, soft glow, transparent background, sharp pixels, 1024x1024"
+Bad prompt: "a cool logo"
+Good prompt: "Paper airplane soaring above a city skyline, centered, flat vector illustration, minimal palette, soft glow, transparent background, clean edges, 1024x1024"
 
 ## Format Specs
 

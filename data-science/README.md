@@ -9,7 +9,7 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 /plugin install thefroject-data-science
 ```
 
-## Skills (69)
+## Skills (70)
 
 - **Code Reviewer** — Review code for bugs, performance, and best practices
 - **Test Writer** — Generate thorough test suites for your code
@@ -63,6 +63,7 @@ Data science toolkit: data pipelines, analysis, visualization, model evaluation,
 - **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
 - **Literature Reviewer** — Conduct systematic literature reviews with structured search, screening, and synthesis
 - **Research Brief Writer** — Write concise research briefs and executive summaries that translate findings into decisions
+- **Idea Validator** — Validate business ideas through structured questioning, market sizing, and sell-before-build frameworks
 - **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
 - **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
 - **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills

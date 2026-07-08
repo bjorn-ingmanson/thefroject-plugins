@@ -1,6 +1,6 @@
 ---
 name: sales-battlecard-builder
-description: Build competitive battle cards that arm sales reps with positioning, differentiators, objection handling, and win strategies for specific competitors. Use when entering a competitive deal, updating competitive positioning, or onboarding new reps.
+description: Build competitive battle cards that arm sales reps with positioning, differentiators, objection handling, and win strategies for specific competitors. Use when entering a competitive deal, updating competitive positioning, or onboarding new reps. Rep-facing and deal-focused; for analysis-heavy battlecards with feature matrices and win/loss data, use competitive-battlecard-builder.
 triggers:
   - battle card
   - competitive card

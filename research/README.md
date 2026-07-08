@@ -9,7 +9,7 @@ Research toolkit: literature review, user interviews, data analysis, multi-sourc
 /plugin install thefroject-research
 ```
 
-## Skills (57)
+## Skills (58)
 
 - **Data Analyst** — Analyze data, find patterns, and generate insights
 - **Project Manager** — Plan, track, and manage projects and tasks
@@ -50,6 +50,7 @@ Research toolkit: literature review, user interviews, data analysis, multi-sourc
 - **Qualitative Analyst** — Code and analyze qualitative data using thematic analysis, affinity mapping, and pattern extraction
 - **Research Brief Writer** — Write concise research briefs and executive summaries that translate findings into decisions
 - **Competitive Battlecard Builder** — Build competitive battlecards with feature matrices, positioning maps, and win/loss analysis for sales and strategy
+- **Idea Validator** — Validate business ideas through structured questioning, market sizing, and sell-before-build frameworks
 - **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
 - **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
 - **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills

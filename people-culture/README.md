@@ -9,7 +9,7 @@ People & culture toolkit: job descriptions, interview design, performance review
 /plugin install thefroject-people-culture
 ```
 
-## Skills (72)
+## Skills (73)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -56,6 +56,7 @@ People & culture toolkit: job descriptions, interview design, performance review
 - **Engagement Strategist** — Design employee engagement strategies from survey data, feedback patterns, and retention signals
 - **Onboarding Designer** — Design employee onboarding programs from pre-start through 90-day ramp
 - **Workforce Planner** — Model workforce capacity, plan hiring, and forecast staffing needs against business goals
+- **Idea Validator** — Validate business ideas through structured questioning, market sizing, and sell-before-build frameworks
 - **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
 - **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences
 - **SOP to Skill Converter** — Turn standard operating procedures and process documents into installable Claude Code skills
@@ -97,8 +98,8 @@ People & culture toolkit: job descriptions, interview design, performance review
 
 - **Git Workflow** — ---
 - **Content Guidelines** — ---
-- **PII Protection** — ---
 - **Confidentiality** — ---
+- **Employee Data Protection** — ---
 - **Context Management** — ---
 - **Bias Auditing** — ---
 - **Prompt Hygiene** — ---

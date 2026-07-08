@@ -9,7 +9,7 @@ Marketing workspace toolkit: content creation, campaigns, SEO, brand voice, laun
 /plugin install thefroject-marketing
 ```
 
-## Skills (150)
+## Skills (151)
 
 - **Blog Writer** — Write engaging blog posts with SEO optimization
 - **SEO Optimizer** — Optimize content and technical SEO for better rankings
@@ -93,7 +93,7 @@ Marketing workspace toolkit: content creation, campaigns, SEO, brand voice, laun
 - **Debate** — Multiple agents argue different positions on a decision, then a judge synthesizes the best answer
 - **Maker-Checker** — One agent creates output, a separate agent validates it, looping until the checker approves
 - **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
-- **Brand Context Builder** — Run a structured brand intake interview and research process to build a comprehensive brand context document
+- **Brand Context Builder** — Run a structured brand intake interview and research process to build a complete brand context document
 - **Creative Strategy Mapper** — Map pain points, personas, and awareness stages into a creative strategy matrix for campaigns and content
 - **Scroll-Stop Hooks** — Write psychologically-driven hooks for ads, social content, and landing pages using trigger-based frameworks
 - **Review Miner** — Mine customer reviews for pain points, trigger moments, objections, and ad-ready language
@@ -104,6 +104,7 @@ Marketing workspace toolkit: content creation, campaigns, SEO, brand voice, laun
 - **Research Brief Writer** — Write concise research briefs and executive summaries that translate findings into decisions
 - **Competitive Battlecard Builder** — Build competitive battlecards with feature matrices, positioning maps, and win/loss analysis for sales and strategy
 - **Content Humanizer** — Detect and fix AI writing patterns to make content sound natural and human-written
+- **Idea Validator** — Validate business ideas through structured questioning, market sizing, and sell-before-build frameworks
 - **Services Proposal Writer** — Generate services and consulting proposals with discovery framework, tiered pricing, and ROI projections
 - **Influencer Campaign Manager** — Plan and manage influencer marketing campaigns from identification through measurement
 - **Community Strategist** — Design community strategy including platform selection, engagement programs, and growth mechanics

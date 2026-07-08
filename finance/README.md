@@ -9,7 +9,7 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 /plugin install thefroject-finance
 ```
 
-## Skills (75)
+## Skills (76)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -61,6 +61,7 @@ Finance workspace toolkit: budgeting, forecasting, financial reporting, billing 
 - **Workforce Planner** — Model workforce capacity, plan hiring, and forecast staffing needs against business goals
 - **SaaS Metrics Coach** — Calculate and interpret SaaS unit economics including ARR, MRR, churn, LTV, CAC, and payback period
 - **Investor Update Writer** — Draft monthly or quarterly investor updates with metrics, wins, asks, and forward-looking commentary
+- **Idea Validator** — Validate business ideas through structured questioning, market sizing, and sell-before-build frameworks
 - **Data Reconciliation** — Compare data exports from two systems and find the root cause of discrepancies
 - **Skill Learnings Tracker** — Maintain LEARNINGS.md files per skill that capture what works and what fails, then graduate repeated patterns into permanent rules
 - **User Profile Interview** — Build a personal profile through a short interview to help Claude adapt to your working style and preferences

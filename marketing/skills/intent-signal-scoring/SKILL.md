@@ -1,6 +1,6 @@
 ---
 name: intent-signal-scoring
-description: Build a scoring model that combines first-party (web, content, in-app) and third-party (G2, Clearbit, 6sense) signals into a buying-intent score per account. Tells sales WHEN to reach out, not just WHO to target. Use when user mentions intent data, intent scoring, buying signals, when to reach out, or sales triggers.
+description: Build a scoring model that combines first-party (web, content, in-app) and third-party (review sites, enrichment and intent-data providers) signals into a buying-intent score per account. Tells sales WHEN to reach out, not just WHO to target. Use when user mentions intent data, intent scoring, buying signals, when to reach out, or sales triggers.
 triggers:
   - intent signals
   - buying intent

@@ -9,7 +9,7 @@ triggers:
 
 # Rust Patterns
 
-Write idiomatic Rust. Leverage the type system and ownership model to eliminate bugs at compile time.
+Write idiomatic Rust. Use the type system and ownership model to eliminate bugs at compile time.
 
 ## Ownership and Borrowing
 

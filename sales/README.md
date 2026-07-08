@@ -9,7 +9,7 @@ Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline man
 /plugin install thefroject-sales
 ```
 
-## Skills (101)
+## Skills (102)
 
 - **Competitor Researcher** — Research and analyze competitors systematically
 - **Project Manager** — Plan, track, and manage projects and tasks
@@ -71,12 +71,13 @@ Sales workspace toolkit: outreach, deal strategy, competitor intel, pipeline man
 - **Debate** — Multiple agents argue different positions on a decision, then a judge synthesizes the best answer
 - **Maker-Checker** — One agent creates output, a separate agent validates it, looping until the checker approves
 - **Watchdog** — Background agent monitors for problems while the main agent works, alerting when triggered
-- **Brand Context Builder** — Run a structured brand intake interview and research process to build a comprehensive brand context document
+- **Brand Context Builder** — Run a structured brand intake interview and research process to build a complete brand context document
 - **Scroll-Stop Hooks** — Write psychologically-driven hooks for ads, social content, and landing pages using trigger-based frameworks
 - **Review Miner** — Mine customer reviews for pain points, trigger moments, objections, and ad-ready language
 - **Competitive Battlecard Builder** — Build competitive battlecards with feature matrices, positioning maps, and win/loss analysis for sales and strategy
 - **SaaS Metrics Coach** — Calculate and interpret SaaS unit economics including ARR, MRR, churn, LTV, CAC, and payback period
 - **Content Humanizer** — Detect and fix AI writing patterns to make content sound natural and human-written
+- **Idea Validator** — Validate business ideas through structured questioning, market sizing, and sell-before-build frameworks
 - **Revenue Operations** — Optimize revenue pipeline with forecasting, CRM hygiene, handoff design, and GTM metrics
 - **Services Proposal Writer** — Generate services and consulting proposals with discovery framework, tiered pricing, and ROI projections
 - **Data Reconciliation** — Compare data exports from two systems and find the root cause of discrepancies

@@ -46,7 +46,7 @@ For high-friction forms (10+ fields), break into 2-3 steps:
 - Step 2: qualifying questions (company, role, use case).
 - Step 3: anything detailed (project description, timeline).
 
-The trick: once someone commits to step 1, they're 3-5x more likely to finish all steps than they would be on a single-page version.
+The trick: once someone commits to step 1, they're much more likely to finish all steps than they would be on a single-page version.
 
 ### Field types and inputs
 - Email: `type="email"` (mobile keyboard switches).

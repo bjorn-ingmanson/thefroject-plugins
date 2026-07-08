@@ -49,7 +49,7 @@ Use semantic tokens, not raw values:
 
 ```
 /* Do this */
-className="bg-surface-800 text-frog border-surface-600"
+className="bg-surface-800 text-accent border-surface-600"
 
 /* Not this */
 className="bg-[#1a1a2e] text-[#4ade80] border-[#333]"

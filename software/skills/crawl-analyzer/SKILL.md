@@ -1,6 +1,6 @@
 ---
 name: crawl-analyzer
-description: Process and analyze website crawl exports from Screaming Frog, Sitebulb, Ahrefs, or similar tools. Identifies technical SEO issues, segments pages by type, and produces prioritized fix lists. Use when auditing a site's technical health, investigating ranking drops, or preparing SEO recommendations.
+description: Process and analyze website crawl exports from your SEO crawl tool (e.g. Screaming Frog, Sitebulb, Ahrefs). Identifies technical SEO issues, segments pages by type, and produces prioritized fix lists. Use when auditing a site's technical health, investigating ranking drops, or preparing SEO recommendations.
 triggers:
   - analyze crawl
   - crawl audit

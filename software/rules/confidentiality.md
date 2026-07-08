@@ -4,7 +4,7 @@ description: Handle confidential business information, trade secrets, and sensit
 
 # Confidentiality Rules
 
-- Never include customer names, deal sizes, or revenue figures in code, comments, or public docs
+- Never include customer names, employee personal details, deal sizes, or revenue figures in code, comments, or public docs
 - Mark all documents containing confidential information with appropriate labels
 - Do not reference confidential conversations or sources in external-facing content
 - Use anonymized or aggregated data in examples and presentations
@@ -16,5 +16,5 @@ description: Handle confidential business information, trade secrets, and sensit
 **Classification levels:**
 - **Public** — Can share freely (blog posts, marketing materials, open docs)
 - **Internal** — Share within the company only (strategy docs, metrics, roadmaps)
-- **Confidential** — Need-to-know basis (customer data, deal details, financials)
-- **Restricted** — Named individuals only (board materials, M&A, legal matters)
+- **Confidential** — Need-to-know basis (customer data, employee records, deal details, financials)
+- **Restricted** — Named individuals only (board materials, M&A, legal matters, personnel cases)

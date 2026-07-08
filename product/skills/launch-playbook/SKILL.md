@@ -147,7 +147,7 @@ What to measure weekly for 4 weeks after launch.
 - Launch without a clear success metric — you cannot evaluate a launch without a number
 - Plan launch day without contingency plans for failure modes
 - Focus all energy on launch day and ignore the follow-through — most conversions happen in the weeks after
-- Skip the teaser phase — warm audiences convert 3-5x better than cold audiences
+- Skip the teaser phase — warm audiences convert far better than cold audiences
 - Schedule every post and walk away — launch day requires active engagement and real-time responses
 - Plan a "big bang" launch for an unvalidated product — soft launch first, then amplify what works
 

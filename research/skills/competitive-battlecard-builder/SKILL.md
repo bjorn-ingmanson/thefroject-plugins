@@ -1,6 +1,6 @@
 ---
 name: competitive-battlecard-builder
-description: Build competitive battlecards with feature matrices, positioning maps, and win/loss framing. Use when preparing sales battlecards, planning competitive positioning, or arming reps with differentiation talking points. For general competitor research, use competitor-researcher instead.
+description: Build competitive battlecards with feature matrices, positioning maps, and win/loss framing. Use when preparing sales battlecards, planning competitive positioning, or arming reps with differentiation talking points. Analysis-heavy; for quick rep-facing cards in an active deal, use sales-battlecard-builder. For general competitor research, use competitor-researcher instead.
 triggers:
   - competitive battlecard
   - build battlecards

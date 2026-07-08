@@ -1,6 +1,6 @@
 ---
 name: objection-handler
-description: Create comprehensive objection handling playbooks with categorized objections, response frameworks, evidence points, and practice scenarios. Use when preparing for sales conversations, training new reps, or updating competitive positioning.
+description: Create complete objection handling playbooks with categorized objections, response frameworks, evidence points, and practice scenarios. Use when preparing for sales conversations, training new reps, or updating competitive positioning.
 triggers:
   - handle objection
   - objection response

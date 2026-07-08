@@ -54,7 +54,7 @@ If the user has no `llms.txt`:
 6. If there's a clear how-it-works flow, include the steps.
 7. Save to `outputs/llms.txt` and tell the user to drop it at their site root.
 
-If the project is built with The Froject, generate `llms.txt` from `templateCounts` at build time so it never drifts (see `scripts/prerender.ts` in this repo for an example pattern).
+If the site is built from structured data (a product catalog, a template list, a docs tree), generate `llms.txt` from that data at build time so it never drifts from reality. Hardcoded counts and page lists go stale within weeks.
 
 ## Auditing an existing llms.txt
 

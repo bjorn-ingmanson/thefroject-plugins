@@ -27,7 +27,7 @@ If only the URL is given and you can fetch it, do so. Otherwise ask for the sour
 Run through this checklist. Each item is a binary pass/fail; sum to a score out of 20.
 
 ### Structure (6 points)
-1. Single `<h1>` per page (not zero, not multiple). Pages with one clean H1 are cited 2.8x more often.
+1. Single `<h1>` per page (not zero, not multiple). Pages with one clean H1 get cited notably more often.
 2. Sequential heading hierarchy: H1 -> H2 -> H3 with no skipped levels.
 3. Paragraphs are short (under 100 words). AI engines prefer chunks they can quote.
 4. Lists and tables are present where appropriate (data answers).

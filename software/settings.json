@@ -71,7 +71,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "INPUT=$(cat); CMD=$(echo \"$INPUT\" | jq -r '.tool_input.command // empty'); if echo \"$CMD\" | grep -q 'git commit'; then MSG=$(echo \"$CMD\" | grep -oP '(?<=-m [\"'\\''\"'\\'''])[^\"'\\''\"'\\''']+''); if [ -n \"$MSG\" ] && ! echo \"$MSG\" | grep -qE '^(feat|fix|refactor|docs|chore|test|style|perf|ci|build|revert)(\\(.+\\))?(!)?:'; then echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"permissionDecision\":\"deny\",\"permissionDecisionReason\":\"Commit message must follow conventional commits: feat:, fix:, refactor:, docs:, chore:, test:, etc.\"}}'; fi; fi"
+            "command": "INPUT=$(cat); CMD=$(echo \"$INPUT\" | jq -r '.tool_input.command // empty'); if echo \"$CMD\" | grep -q 'git commit'; then MSG=$(echo \"$CMD\" | sed -n 's/.*-m *\"\\([^\"]*\\)\".*/\\1/p'); [ -z \"$MSG\" ] && MSG=$(echo \"$CMD\" | sed -n \"s/.*-m *'\\([^']*\\)'.*/\\1/p\"); if [ -n \"$MSG\" ] && ! echo \"$MSG\" | grep -qE '^(feat|fix|refactor|docs|chore|test|style|perf|ci|build|revert)(\\(.+\\))?(!)?:'; then echo '{\"hookSpecificOutput\":{\"hookEventName\":\"PreToolUse\",\"permissionDecision\":\"deny\",\"permissionDecisionReason\":\"Commit message must follow conventional commits: feat:, fix:, refactor:, docs:, chore:, test:, etc.\"}}'; fi; fi"
           }
         ],
         "matcher": "Bash"

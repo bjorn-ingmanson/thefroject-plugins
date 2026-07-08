@@ -26,7 +26,7 @@ Ask if not provided:
 
 ## Exec hiring
 
-The single highest-leverage CHRO activity. Bad exec hires are 4-12x more expensive than wrong IC hires.
+The single highest-leverage CHRO activity. A bad exec hire costs far more than a wrong IC hire — in money, time, and team damage.
 
 ### Search process
 - **Define the role precisely**. "VP Sales" is not enough. "VP Sales who can scale us from $5M to $25M ARR through mid-market motion" is. The bar varies by stage.

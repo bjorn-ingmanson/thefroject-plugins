@@ -9,7 +9,7 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 /plugin install thefroject-operations
 ```
 
-## Skills (102)
+## Skills (103)
 
 - **Project Manager** — Plan, track, and manage projects and tasks
 - **Meeting Summarizer** — Summarize meetings with actions and decisions
@@ -70,6 +70,7 @@ Operations workspace toolkit: process optimization, compliance, vendor managemen
 - **Workforce Planner** — Model workforce capacity, plan hiring, and forecast staffing needs against business goals
 - **Privacy Compliance Auditor** — Audit applications and processes for GDPR, CCPA, and general privacy compliance
 - **Release Manager** — Coordinate releases with checklists, changelogs, rollback plans, and stakeholder communication
+- **Idea Validator** — Validate business ideas through structured questioning, market sizing, and sell-before-build frameworks
 - **Revenue Operations** — Optimize revenue pipeline with forecasting, CRM hygiene, handoff design, and GTM metrics
 - **Services Proposal Writer** — Generate services and consulting proposals with discovery framework, tiered pricing, and ROI projections
 - **Community Strategist** — Design community strategy including platform selection, engagement programs, and growth mechanics

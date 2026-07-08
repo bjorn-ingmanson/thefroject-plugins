@@ -198,7 +198,7 @@ Leads with a surprising or counter-intuitive claim.
 - *"You have been doing this wrong your whole career."*
 
 ### Social Proof
-Leverages reviews, testimonials, or popularity signals.
+Uses reviews, testimonials, or popularity signals.
 - **Best for:** Product-Aware with hesitation. Any category where trust is a barrier.
 - **Trigger:** Social Proof/Credibility
 - *"10,000 5-star reviews." / "Used by 300 teams." / "Most-loved on G2."*

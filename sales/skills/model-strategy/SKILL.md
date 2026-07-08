@@ -26,7 +26,7 @@ Check `context/` for:
 
 | Model | Best For | Cost | Speed |
 |-------|---------|------|-------|
-| **Opus 4.6** | Complex reasoning, architecture decisions, code review, strategic planning, multi-step analysis | Highest | Slower |
+| **Opus 4.8** | Complex reasoning, architecture decisions, code review, strategic planning, multi-step analysis | Highest | Slower |
 | **Sonnet 4.6** | General-purpose work, writing, editing, most coding tasks, research | Medium | Fast |
 | **Haiku 4.5** | Simple lookups, formatting, summarization, high-volume repetitive tasks | Lowest | Fastest |
 
@@ -73,7 +73,7 @@ Apply these rules:
 For each agent in `.claude/agents/`, set the model field:
 
 ```yaml
-model: claude-sonnet-4-6  # or claude-opus-4-6 or claude-haiku-4-5
+model: claude-sonnet-4-6  # or claude-opus-4-8 or claude-haiku-4-5
 ```
 
 Agents that review, plan, or make architectural decisions should use Opus. Agents that execute well-defined tasks should use Sonnet or Haiku.

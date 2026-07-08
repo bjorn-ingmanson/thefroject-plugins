@@ -1,6 +1,6 @@
 ---
 name: brand-context-builder
-description: Run a structured brand intake interview and web research to build a comprehensive brand context document. Use when starting work on a new brand, onboarding a new client, or building foundational context for creative strategy, content, or campaigns. Run this before any creative strategy, hook writing, or campaign work.
+description: Run a structured brand intake interview and web research to build a complete brand context document. Use when starting work on a new brand, onboarding a new client, or building foundational context for creative strategy, content, or campaigns. Run this before any creative strategy, hook writing, or campaign work.
 triggers:
   - build brand context
   - brand intake
@@ -12,7 +12,7 @@ allowed-tools: []
 
 # Brand Context Builder
 
-Build a comprehensive brand context document through structured interview and research. The output is a markdown file that all downstream work (creative strategy, hooks, campaigns, content) can reference.
+Build a complete brand context document through structured interview and research. The output is a markdown file that all downstream work (creative strategy, hooks, campaigns, content) can reference.
 
 ## Writes
 - `outputs/brand-context-[brand-name].md`
